@@ -1,2 +1,2 @@
 # captcha
-# Creating Captcha for user
+# Creating Captcha Generator for user
